@@ -8,7 +8,6 @@
             font-family: Arial, sans-serif;
             color: white }
 
-        /* ===== NAVBAR ===== */
         nav{display:flex;
             justify-content: space-between;
             align-items:center;
@@ -25,7 +24,6 @@
             border:none;
             cursor:pointer;}
 
-        /* ===== HERO SECTION ===== */
         .hero{ display:flex;
             align-items:center;
             justify-content:space-between;
@@ -54,7 +52,6 @@
 </head>
 <body>
 
-    <!-- NAVBAR -->
     <nav>
         <ul>
             <li>HOME</li>
@@ -65,7 +62,6 @@
         <button class="contact-btn">CONTACT</button>
     </nav>
 
-    <!-- HERO -->
     <div class="hero">
 
         <img src="Snapchart-1235298204.jpg" alt="Portfolio">
